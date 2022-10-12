@@ -1,7 +1,7 @@
 <template>
   <div class="com_head wh100 flex_between">
     <div class="left flex_middle">
-      <img src="@/assets/image/logo.png" title="上海序言泽网络科技有限公司" />
+      <img src="@/assets/image/logo.png" title="上海网络科技有限公司" />
       <!-- <i class="fs18 c3 pointer ml20" :class="{'el-icon-s-fold': !is_fold, 'el-icon-s-unfold': is_fold}" @click="foldMenu" :title="is_fold ? '展开菜单' : '收起菜单'"></i> -->
     </div>
     <div class="right flex_middle pointer">
