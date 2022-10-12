@@ -2,7 +2,7 @@
   "name": "building",
   "version": "1.0.0",
   "description": "团建项目",
-  "author": "罗华峰",
+  "author": "pkk",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
